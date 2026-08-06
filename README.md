@@ -7,11 +7,11 @@ Web Developer · Java + DSA Enthusiast · CSE Undergraduate
 ---
 
 <p align="center">
-<a href="https://linkedin.com/in/manish-mannem">
+<a href="www.linkedin.com/in/manish-mannem-285a77339">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/manish">
+<a href="https://leetcode.com/u/mannemmanish/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
